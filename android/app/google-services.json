@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81670168506",
+    "project_id": "bdrl-4b87b",
+    "storage_bucket": "bdrl-4b87b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81670168506:android:7a617addf7420877ce4783",
+        "android_client_info": {
+          "package_name": "com.bdrl_vender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCmrn2rrhw8_g9LVN8oqjuBm3_BlST6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
