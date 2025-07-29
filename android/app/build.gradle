@@ -13,6 +13,7 @@ apply plugin: 'com.google.gms.google-services'
  * By default you don't need to apply any configuration, just uncomment the lines you need.
  */
 react {
+    nodeExecutableAndArgs = ["/usr/local/bin/node"]
     /* Folders */
     //   The root of your project, i.e. where "package.json" lives. Default is '../..'
     // root = file("../../")
@@ -88,8 +89,8 @@ android {
         applicationId "com.bdrl_vender"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 6
-        versionName "6.0"
+        versionCode 7
+        versionName "7.0"
     }
     signingConfigs {
         release {

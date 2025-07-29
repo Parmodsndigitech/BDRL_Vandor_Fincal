@@ -1,9 +1,7 @@
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-// const BASEURL = "https://api.bhadaapp.com/api/";
-const BASEURL = "https://api.bhadaapp.com/api/"
-// https://api.bhadaapp.com/api/
-const BASEURLADMIN = "http://13.49.145.209:5000/api/";
+// const BASEURL = "https://api.bhadaapp.com/api/"
+const BASEURL = "https://api.bdrl.co.in/api/"
 const BDRL_User = `${BASEURL}auth/`;
 
 export const ApiUrl = {
